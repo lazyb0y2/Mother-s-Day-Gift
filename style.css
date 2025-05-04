@@ -1,11 +1,8 @@
-h1{
-    text-align: center;
-}
-h5{
-    text-align: center;
-}
 body{
-    background-image: url(img/download.jpg);
+    text-align: center;
+    background-image: url(img/mom.jpg);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 115%;
+    color: gold;
+    text-shadow: 14px 10px 3px black;
 }
