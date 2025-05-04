@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+body{
+    background-image: url(img/download.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
