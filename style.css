@@ -2,7 +2,10 @@ body{
     text-align: center;
     background-image: url(img/mom.jpg);
     background-repeat: no-repeat;
-    background-size: 115%;
+    background-size: 130%;
     color: gold;
     text-shadow: 14px 10px 3px black;
+}
+.jojo{
+    color: aqua;
 }
