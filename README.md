@@ -1,1 +1,1 @@
-Just a mothers day card turmed into a websit I guesse
+Just a mothers day card turned into a websit I guesse
