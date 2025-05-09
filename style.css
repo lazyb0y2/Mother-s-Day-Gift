@@ -1,14 +1,19 @@
-body{
+body {
     text-align: center;
     background-image: url(img/mom.jpg);
     background-repeat: no-repeat;
-    background-size: 130%;
+    background-size: cover; /* Better for responsiveness */
+    background-position: center;
     color: gold;
-    text-shadow: 14px 10px 3px black;
+    text-shadow: 2px 2px 4px black;
+    margin: 0;
+    padding: 0;
 }
-.jojo{
+
+.jojo {
     color: aqua;
 }
+
 /* Mobile styles */
 @media only screen and (max-width: 500px) {
     body {
