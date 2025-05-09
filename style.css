@@ -19,6 +19,6 @@ body {
     body {
         background-size: 700%; /* Maintain image responsiveness */
         font-size: 90%; /* Adjust text size if needed */
-        padding: 8px;
+        padding: 6px;
     }
 }
