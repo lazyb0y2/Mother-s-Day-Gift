@@ -15,9 +15,9 @@ body {
 }
 
 /* Mobile styles */
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 700px) {
     body {
-        background-size: 600%; /* Maintain image responsiveness */
+        background-size: 650%; /* Maintain image responsiveness */
         font-size: 90%; /* Adjust text size if needed */
         padding: 10px;
     }
